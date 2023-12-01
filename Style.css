@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans&family=Poppins&family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Condensed&display=swap');
 body{
     background-image: url('https://images.unsplash.com/photo-1700831783851-26635f06e7f5?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
 }
 .head{
     font-size: 40px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Bebas Neue', sans-serif;
 }
 .bg-card{
     background-color: rgba(0, 0, 0, 0.626);
